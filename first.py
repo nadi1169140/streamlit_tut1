@@ -13,4 +13,5 @@ st.radio('Pick you gender', ['Male', 'Female'])
 st.selectbox('Pick your gender', ['Male', 'Gender'])
 st.multiselect('choose a planet', ['Jupiter', 'Mars', 'Neptune'])
 st.select_slider('Pick a mark', ['Bad', 'Good', 'Excellent'])
-st.slider('Pick a number', 0.50)...
+st.slider('Pick a number', 0.50)
+
