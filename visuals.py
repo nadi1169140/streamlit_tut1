@@ -31,7 +31,7 @@ if analysis_option == 'Salary Distribution by Job Title':
     plt.xticks(rotation=45)
     st.pyplot()
 
-elif analysis_option == 'Geographic Salary Disparities':
+elif analysis_option == 'Geographic Salary Disparities:':
     st.header('Geographic Salary Disparities')
     
     # Choose countries to show
