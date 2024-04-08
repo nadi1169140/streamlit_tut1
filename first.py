@@ -15,3 +15,4 @@ st.multiselect('choose a planet', ['Jupiter', 'Mars', 'Neptune'])
 st.select_slider('Pick a mark', ['Bad', 'Good', 'Excellent'])
 st.slider('Pick a number', 0.50)
 
+st.checkbox('yes')
