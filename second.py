@@ -1,4 +1,4 @@
-simport streamlit as st
+import streamlit as st
 st.title("This is my first streamlit project")
 st.write("Hello Streamlit!")
 st.write("Hello Streamlit!")
